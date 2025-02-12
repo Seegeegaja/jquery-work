@@ -1,0 +1,14 @@
+div{
+  width: 200px;
+  height: 200px;
+  display: none;
+}
+.a{
+  background-color: red;
+}
+.b{
+  background-color: gold;
+}
+.c{
+  background-color: hotpink;
+}
